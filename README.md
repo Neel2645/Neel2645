@@ -11,10 +11,10 @@
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
 
-<h3 align="center" style="color:#FFA500; font-weight:bold; font-size:24px;">🚀 Aspiring Software Engineer | MERN Stack | Exploring AI & Flutter | Full-Stack Web Developer</h3>
-<br>
+<h3 align="center">🚀 Aspiring Software Engineer | MERN Stack | Exploring AI & Flutter | Full-Stack Web Developer</h3>
+<br/>
 
-## ABOUT ME !! 
+### <img src="https://media.giphy.com/media/D1kBaRvs9LmaYU3CsF/giphy.gif" width="50"/> <span style="color:#FFA500; font-weight:bold; font-size:24px;"> A Little Bit About Me...  </span>
 
 ```yaml
   name: "Neel Sathvara"
@@ -35,32 +35,66 @@
   - "Exploring Data Structures and Algorithms:
 ```
 
+<br/>
 
-### `Coding Profiles:`
-[![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat&amp;labelColor=black&amp;logo=leetcode&amp;logoColor=orange)](https://leetcode.com/u/sathvara_neel_2645/)
-[![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-darkgreen?style=flat&amp;labelColor=white&amp;logo=geeksforgeeks&amp;logoColor=darkgreen)](https://www.geeksforgeeks.org/user/sathvaraxtae/)
-[![HackerRank](https://img.shields.io/badge/-HackerRank-green?style=flat&amp;labelColor=white&amp;logo=hackerrank&amp;logoColor=green)](https://www.hackerrank.com/profile/sathvaraneel52)
-[![CodingNinjas](https://img.shields.io/badge/-CodingNinjas-orange?style=flat&amp;labelColor=white&amp;logo=codingninjas&amp;logoColor=orange)](https://www.naukri.com/code360/profile/NeelSathvara)
-[![CodeChef](https://img.shields.io/badge/-CodeChef-brown?style=flat&labelColor=white&logo=codechef&logoColor=brown)](https://www.codechef.com/users/sathvara_neel)
+### <img src="https://media.giphy.com/media/D1kBaRvs9LmaYU3CsF/giphy.gif" width="50"/> `Coding Profiles:`
 
-
-
-### `Coding Profiles:`
 <p align="center">
-  <a href="https://leetcode.com/u/sathvara_neel_2645/">
-    <img src="https://img.shields.io/badge/-LeetCode-orange?style=flat&labelColor=black&logo=leetcode&logoColor=orange"/>
-  </a>
-  <a href="https://www.geeksforgeeks.org/user/sathvaraxtae/">
-    <img src="https://img.shields.io/badge/-GeeksforGeeks-darkgreen?style=flat&labelColor=white&logo=geeksforgeeks&logoColor=darkgreen"/>
-  </a>
-  <a href="https://www.hackerrank.com/profile/sathvaraneel52">
-    <img src="https://img.shields.io/badge/-HackerRank-green?style=flat&labelColor=white&logo=hackerrank&logoColor=green"/>
-  </a>
-  <a href="https://www.naukri.com/code360/profile/NeelSathvara">
-    <img src="https://img.shields.io/badge/-CodingNinjas-orange?style=flat&labelColor=white&logo=codingninjas&logoColor=orange"/>
-  </a>
-  <a href="https://www.codechef.com/users/sathvara_neel">
-    <img src="https://img.shields.io/badge/-CodeChef-brown?style=flat&labelColor=white&logo=codechef&logoColor=brown"/>
-  </a>
+  <div style="
+    display: flex; 
+    justify-content: center; 
+    gap: 15px; 
+    flex-wrap: wrap;
+  ">
+    <a href="https://leetcode.com/u/sathvara_neel_2645/" target="_blank" style="text-decoration: none;">
+      <img 
+        src="https://img.shields.io/badge/-LeetCode-orange?style=for-the-badge&labelColor=black&logo=leetcode&logoColor=orange" 
+        alt="LeetCode" 
+        style="transition: transform 0.3s ease; border-radius: 10px;"
+      />
+    </a>
+    <a href="https://www.geeksforgeeks.org/user/sathvaraxtae/" target="_blank" style="text-decoration: none;">
+      <img 
+        src="https://img.shields.io/badge/-GeeksforGeeks-darkgreen?style=for-the-badge&labelColor=white&logo=geeksforgeeks&logoColor=darkgreen" 
+        alt="GeeksforGeeks" 
+        style="transition: transform 0.3s ease; border-radius: 10px;"
+      />
+    </a>
+    <!-- HackerRank -->
+    <a href="https://www.hackerrank.com/profile/sathvaraneel52" target="_blank" style="text-decoration: none;">
+      <img 
+        src="https://img.shields.io/badge/-HackerRank-green?style=for-the-badge&labelColor=white&logo=hackerrank&logoColor=green" 
+        alt="HackerRank" 
+        style="transition: transform 0.3s ease; border-radius: 10px;"
+      />
+    </a>
+    <!-- CodingNinjas -->
+    <a href="https://www.naukri.com/code360/profile/NeelSathvara" target="_blank" style="text-decoration: none;">
+      <img 
+        src="https://img.shields.io/badge/-CodingNinjas-orange?style=for-the-badge&labelColor=white&logo=codingninjas&logoColor=orange" 
+        alt="CodingNinjas" 
+        style="transition: transform 0.3s ease; border-radius: 10px;"
+      />
+    </a>
+    <!-- CodeChef -->
+    <a href="https://www.codechef.com/users/sathvara_neel" target="_blank" style="text-decoration: none;">
+      <img 
+        src="https://img.shields.io/badge/-CodeChef-brown?style=for-the-badge&labelColor=white&logo=codechef&logoColor=brown" 
+        alt="CodeChef" 
+        style="transition: transform 0.3s ease; border-radius: 10px;"
+      />
+    </a>
+  </div>
 </p>
+
+<br/>
+
+
+  ### 📫 `Connect with me` <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="42px">:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neelsathvara/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NeelSathvara/)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sathvara_neel/)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sathvaraneel52@gmail.com)  
+
 
