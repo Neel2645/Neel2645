@@ -30,7 +30,8 @@
     - "HackerRank: 5 ⭐ in C++"
   Specialization: "Full Stack  Web Development"
   Currently_learning:
-  - "Learning and experimenting with Flutter & full-stack app development. Passionate about creating efficient and user-friendly applications."
+  - "Learning and experimenting with Flutter & full-stack app development.
+     Passionate about creating efficient and user-friendly applications."
   - "Next.js"
   - "Exploring Data Structures and Algorithms:
 ```
@@ -108,6 +109,6 @@
 | **Databases**                | ![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%23007396.svg?style=for-the-badge&logo=database&logoColor=white)![Hive](https://img.shields.io/badge/Hive-%23FDEE21.svg?style=for-the-badge&logo=apachehive&logoColor=black)|
 | **Backend as a Service**     | ![Firebase](https://img.shields.io/badge/firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)|
 | **Software**                 | ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
-| **Version Control & Tools**  | ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white) |
+| **Version Control & Tools**  | ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)|
 | **Core Skills**   | ![Operating Systems](https://img.shields.io/badge/OS-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white) ![DBMS](https://img.shields.io/badge/DBMS-%231572B6.svg?style=for-the-badge&logo=database&logoColor=white) ![Computer Networks](https://img.shields.io/badge/Computer%20Networks-%23007396.svg?style=for-the-badge&logo=cisco&logoColor=white) ![Data Structures & Algorithms](https://img.shields.io/badge/DSA-%23E34F26.svg?style=for-the-badge&logo=algolia&logoColor=white) |
 <br>
