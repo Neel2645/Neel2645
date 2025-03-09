@@ -1,3 +1,6 @@
+
+<img src="https://komarev.com/ghpvc/?username=neel2645&color=blue" alt="Profile Views" width="150">
+
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p> 
