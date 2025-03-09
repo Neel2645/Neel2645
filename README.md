@@ -1,21 +1,25 @@
 
 <img src="https://komarev.com/ghpvc/?username=neel2645&color=blue" alt="Profile Views" width="150">
 
-<p align="left">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
-</p> 
-  
-<h1 align="center">Hiii <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
-         alt="Waving hand animated gif"
-         height="45"
-         width="45" />, I'm Neel Sathvara...</h1>
-
-<p align="left">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+<p align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=500&color=FF5733&center=true&vCenter=true&width=800&height=40&lines=Welcome+to+my+GitHub!;Hiii,+I'm+Neel+Sathvara...!;Software+Developer+%7C+Tech+Enthusiast!;MERN+Stack+%7C+Next.js+%7C+Flutter+%7C+AI!;Building+Scalable+Solutions!;Open-Source+Contributor+%7C+Tech+Blogger!;Let's+Build+Something+Amazing!+🚀" 
+  alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
+</p>
+
 
 <h3 align="center">🚀 Aspiring Software Engineer | MERN Stack | Exploring AI & Flutter | Full-Stack Web Developer</h3>
 <br/>
+
+
+
 
 ### <img src="https://media.giphy.com/media/D1kBaRvs9LmaYU3CsF/giphy.gif" width="50"/> <span style="color:#FFA500; font-weight:bold; font-size:24px;"> A Little Bit About Me...  </span>
 
@@ -114,4 +118,29 @@
 | **Software**                 | ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
 | **Version Control & Tools**  | ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)|
 | **Core Skills**   | ![Operating Systems](https://img.shields.io/badge/OS-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white) ![DBMS](https://img.shields.io/badge/DBMS-%231572B6.svg?style=for-the-badge&logo=database&logoColor=white) ![Computer Networks](https://img.shields.io/badge/Computer%20Networks-%23007396.svg?style=for-the-badge&logo=cisco&logoColor=white) ![Data Structures & Algorithms](https://img.shields.io/badge/DSA-%23E34F26.svg?style=for-the-badge&logo=algolia&logoColor=white) |
-<br>
+
+
+### 📊 GitHub Stats:
+
+<div align="center">
+  <a href="https://github.com/Neel2645" align="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=Neel2645&show_icons=true&theme=radical&hide_border=true" height="180em" alt="Neel2645"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Neel2645&theme=radical&hide_border=true" alt="Neel2645" height="180em"/>
+  </a>
+  <br/>
+  <a href="https://github.com/Neel2645" align="right">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neel2645&theme=radical&hide_border=true&layout=compact" alt="Neel2645" height="180em"/>
+  </a>
+</div>
+<br/>
+<p align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif"  width="1920">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=500&color=FF5733&center=true&vCenter=true&width=600&height=60&lines=Let's+Build+Something+Amazing!;Empowering+Innovation!;Keep+Pushing+Forward!;Code%2C+Create%2C+Conquer!" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
+</p>
