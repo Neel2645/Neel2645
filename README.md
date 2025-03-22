@@ -105,7 +105,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sathvara_neel_/)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sathvaraneel52@gmail.com)  
 
-## SKILLS:
+<!--
+### SKILLS:
 
 | Category                     | Skills and Icons                                                            |
 |------------------------------|---------------------------------------------------------------------------|
@@ -117,7 +118,21 @@
 | **Backend as a Service**     | ![Firebase](https://img.shields.io/badge/firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)![Render](https://img.shields.io/badge/Render-%230046F7.svg?style=for-the-badge&logo=render&logoColor=white)|
 | **Software**                 | ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
 | **Version Control & Tools**  | ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)|
-| **Core Skills**   | ![Operating Systems](https://img.shields.io/badge/OS-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white) ![DBMS](https://img.shields.io/badge/DBMS-%231572B6.svg?style=for-the-badge&logo=database&logoColor=white) ![Computer Networks](https://img.shields.io/badge/Computer%20Networks-%23007396.svg?style=for-the-badge&logo=cisco&logoColor=white) ![Data Structures & Algorithms](https://img.shields.io/badge/DSA-%23E34F26.svg?style=for-the-badge&logo=algolia&logoColor=white) |
+| **Core Skills**   | ![Operating Systems](https://img.shields.io/badge/OS-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white) ![DBMS](https://img.shields.io/badge/DBMS-%231572B6.svg?style=for-the-badge&logo=database&logoColor=white) ![Computer Networks](https://img.shields.io/badge/Computer%20Networks-%23007396.svg?style=for-the-badge&logo=cisco&logoColor=white) ![Data Structures & Algorithms](https://img.shields.io/badge/DSA-%23E34F26.svg?style=for-the-badge&logo=algolia&logoColor=white) |  -->
+
+### SKILLS:
+
+| Category                     | Skills and Icons                                                                                                                                                                                                 |
+|------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Programming Languages**    | ![Python](https://skillicons.dev/icons?i=python) &nbsp;&nbsp; ![Java](https://skillicons.dev/icons?i=java) &nbsp;&nbsp; ![C++](https://skillicons.dev/icons?i=cpp) &nbsp;&nbsp; ![C](https://skillicons.dev/icons?i=c) &nbsp;&nbsp; ![C#](https://skillicons.dev/icons?i=cs) |
+| **Frontend Development**     | ![HTML](https://skillicons.dev/icons?i=html) &nbsp;&nbsp; ![CSS](https://skillicons.dev/icons?i=css) &nbsp;&nbsp; ![JavaScript](https://skillicons.dev/icons?i=javascript) &nbsp;&nbsp; ![TypeScript](https://skillicons.dev/icons?i=typescript) &nbsp;&nbsp; ![React](https://skillicons.dev/icons?i=react) &nbsp;&nbsp; ![Next.js](https://skillicons.dev/icons?i=nextjs) |
+| **Backend Development**      | ![Node.js](https://skillicons.dev/icons?i=nodejs) &nbsp;&nbsp; ![Express.js](https://skillicons.dev/icons?i=express) &nbsp;&nbsp; ![ASP.NET](https://skillicons.dev/icons?i=dotnet) &nbsp;&nbsp; ![Prisma](https://skillicons.dev/icons?i=prisma) |
+| **App Development**          | ![Flutter](https://skillicons.dev/icons?i=flutter) &nbsp;&nbsp; ![Kotlin](https://skillicons.dev/icons?i=kotlin) &nbsp;&nbsp; ![Dart](https://skillicons.dev/icons?i=dart) &nbsp;&nbsp; ![Android Studio](https://skillicons.dev/icons?i=androidstudio) |
+| **Databases**                | ![MongoDB](https://skillicons.dev/icons?i=mongodb) &nbsp;&nbsp; ![SQL](https://skillicons.dev/icons?i=mysql) &nbsp;&nbsp; ![SQLite](https://skillicons.dev/icons?i=sqlite) &nbsp;&nbsp; ![Hive](https://img.shields.io/badge/Hive-%23FDEE21.svg?style=for-the-badge&logo=apachehive&logoColor=black) |
+| **Backend as a Service**     | ![Firebase](https://skillicons.dev/icons?i=firebase) &nbsp;&nbsp; ![Vercel](https://skillicons.dev/icons?i=vercel) &nbsp;&nbsp; ![Netlify](https://skillicons.dev/icons?i=netlify) &nbsp;&nbsp; ![Render](https://img.shields.io/badge/Render-%230046F7.svg?style=for-the-badge&logo=render&logoColor=white) |
+| **Software & Tools**         | ![Figma](https://skillicons.dev/icons?i=figma) &nbsp;&nbsp; ![VS Code](https://skillicons.dev/icons?i=vscode) &nbsp;&nbsp; ![Docker](https://skillicons.dev/icons?i=docker) &nbsp;&nbsp; ![Postman](https://skillicons.dev/icons?i=postman) |
+| **Version Control**          | ![Git](https://skillicons.dev/icons?i=git) &nbsp;&nbsp; ![GitHub](https://skillicons.dev/icons?i=github) |
+| **Core Skills**              | ![Operating Systems](https://img.shields.io/badge/OS-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white) &nbsp;&nbsp; ![DBMS](https://skillicons.dev/icons?i=mysql) &nbsp;&nbsp; ![Computer Networks](https://img.shields.io/badge/Computer%20Networks-%23007396.svg?style=for-the-badge&logo=cisco&logoColor=white) &nbsp;&nbsp; ![Data Structures & Algorithms](https://img.shields.io/badge/DSA-%23E34F26.svg?style=for-the-badge&logo=algolia&logoColor=white) |
 
 
 ### 📊 GitHub Stats:
@@ -133,6 +148,15 @@
   </a>
 </div>
 <br/>
+
+### 🏆 GitHub Trophies:  
+<br/>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Neel2645&theme=monokai&no-frame=false&no-bg=false&margin-w=15" alt="GitHub Trophies">
+</div>
+<br/>
+
+<!-- ------------------------Last Part ------------------------------ -->
 <p align="center">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif"  width="1920">
 </p>
