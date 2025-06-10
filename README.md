@@ -29,7 +29,7 @@
     degree: "BTech in Computer Science Specializing in Full Stack Developer"
     university: "Birla Vishwakarma Mahavidhayalaya"
     location: "Unjha , Mahesana , Gujarat , India"
-    CGPA: "8.79/10"
+    CGPA: "8.64/10"
   Coding achievements:
     - "Leetcode (1532) Top 35.04%"
     - "Codechef (1419) 2 ⭐"
